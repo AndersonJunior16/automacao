@@ -16,3 +16,5 @@ teams = 'C:/Users/0220482413040/Documents/pessoal/pessoal/Python/automacao/teams
 local_teams = pa.locateCenterOnScreen(teams, confidence=0.8)
 
 pa.click(local_teams.x, local_teams.y)
+
+hahahaha
